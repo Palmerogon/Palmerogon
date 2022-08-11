@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Palmerogon
+- 👋 Hi, I’m Mariana Gonzalez Palmero
 - 👀 I’m interested in PHP, Laravel, Symfony, Mysql and DB.
 - 🌱 I’m currently learning Backend Develoment
 - 📫 How to reach me palmerogon@gmail.com

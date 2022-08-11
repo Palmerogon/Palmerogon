@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Palmerogon
-- 👀 I’m interested in PHP, Laravel, Mysql and DB.
+- 👀 I’m interested in PHP, Laravel, Symfony, Mysql and DB.
 - 🌱 I’m currently learning Backend Develoment
 - 📫 How to reach me palmerogon@gmail.com
 
